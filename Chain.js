@@ -8,7 +8,7 @@ class Chain {
         bodyA: body1, 
         bodyB: body2,
         stiffness: 0.5,
-        //length: 15,
+        length: 350,
         pointB: {x: this.offsetX, y: this.offsetY}
     }
 
